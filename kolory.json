@@ -1,0 +1,484 @@
+{
+  "colourinhex": [
+    {
+      "color": "white_wool",
+      "rgba": [233, 236, 236, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 0
+      }
+    },
+      {
+      "color": "orange_wool",
+      "rgba": [240, 118, 19, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 1
+      }
+    },
+      {
+      "color": "magenta_wool",
+      "rgba": [189, 68, 179, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 2
+      }
+    },
+      {
+      "color": "light_blue_wool",
+      "rgba": [58, 175, 217, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 3
+      }
+    },
+      {
+      "color": "yellow_wool",
+      "rgba": [248, 198, 39, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 4
+      }
+    },
+      {
+      "color": "lime_wool",
+      "rgba": [112, 185, 25, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 5
+      }
+    },
+      {
+      "color": "pink_wool",
+      "rgba": [112, 185, 25, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 6
+      }
+    },
+      {
+      "color": "gray_wool",
+      "rgba": [62, 68, 71, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 7
+      }
+    },
+      {
+      "color": "light_gray_wool",
+      "rgba": [142, 142, 134, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 8
+      }
+    },
+      {
+      "color": "cyan_wool",
+      "rgba": [21, 137, 145, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 9
+      }
+    },
+      {
+      "color": "purple_wool",
+      "rgba": [121, 42, 172, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 10
+      }
+    },
+      {
+      "color": "blue_wool",
+      "rgba": [53, 57, 157, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 11
+      }
+    },
+      {
+      "color": "brown_wool",
+      "rgba": [114, 71, 40, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 12
+      }
+    },
+      {
+      "color": "green_wool",
+      "rgba": [84, 109, 27, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 13
+      }
+    },
+      {
+      "color": "red_wool",
+      "rgba": [161, 39, 34, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 14
+      }
+    },
+      {
+      "color": "black_wool",
+      "rgba": [20, 21, 25, 0],
+      "minecraftblock": {
+        "blockid": 35,
+        "variant": 15
+      }
+    },
+      {
+      "color": "white_stained_clay",
+      "rgba": [209, 178, 161, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 0
+      }
+    },
+      {
+      "color": "orange_stained_clay",
+      "rgba": [161, 83, 37, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 1
+      }
+    },
+      {
+      "color": "magenta_stained_clay",
+      "rgba": [149, 88, 108, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 2
+      }
+    },
+      {
+      "color": "light_blue_stained_clay",
+      "rgba": [113, 108, 137, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 3
+      }
+    },
+      {
+      "color": "yellow_stained_clay",
+      "rgba": [186, 133, 35, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 4
+      }
+    },
+      {
+      "color": "lime_stained_clay",
+      "rgba": [103, 117, 52, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 5
+      }
+    },
+      {
+      "color": "pink_stained_clay",
+      "rgba": [161, 78, 78, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 6
+      }
+    },
+      {
+      "color": "gray_stained_clay",
+      "rgba": [57, 42, 35, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 7
+      }
+    },
+      {
+      "color": "light_gray_stained_clay",
+      "rgba": [135, 106, 97, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 8
+      }
+    },
+      {
+      "color": "cyan_stained_clay",
+      "rgba": [86, 91, 91, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 9
+      }
+    },
+      {
+      "color": "purple_stained_clay",
+      "rgba": [118, 70, 86, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 10
+      }
+    },
+      {
+      "color": "blue_stained_clay",
+      "rgba": [74, 59, 91, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 11
+      }
+    },
+      {
+      "color": "brown_stained_clay",
+      "rgba": [77, 51, 35, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 12
+      }
+    },
+      {
+      "color": "green_stained_clay",
+      "rgba": [76, 83, 42, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 13
+      }
+    },
+      {
+      "color": "red_stained_clay",
+      "rgba": [143, 61, 46, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 14
+      }
+    },
+      {
+      "color": "black_stained_clay",
+      "rgba": [37, 22, 16, 0],
+      "minecraftblock": {
+        "blockid": 159,
+        "variant": 15
+      }
+    },
+      {
+      "color": "oak_planks",
+      "rgba": [162, 130, 78, 0],
+      "minecraftblock": {
+        "blockid": 5,
+        "variant": 0
+      }
+    },
+      {
+      "color": "spruce_planks",
+      "rgba": [114, 84, 48, 0],
+      "minecraftblock": {
+        "blockid": 5,
+        "variant": 1
+      }
+    },
+      {
+      "color": "birch_planks",
+      "rgba": [192, 175, 121, 0],
+      "minecraftblock": {
+        "blockid": 5,
+        "variant": 2
+      }
+    },
+      {
+      "color": "jungle_planks",
+      "rgba": [160, 115, 80, 0],
+      "minecraftblock": {
+        "blockid": 5,
+        "variant": 3
+      }
+    },
+      {
+      "color": "acatia_planks",
+      "rgba": [168, 90, 50, 0],
+      "minecraftblock": {
+        "blockid": 5,
+        "variant": 4
+      }
+    },
+      {
+      "color": "dark_oak_planks",
+      "rgba": [66, 43, 20, 0],
+      "minecraftblock": {
+        "blockid": 5,
+        "variant": 5
+      }
+    },
+      {
+      "color": "redstone_block",
+      "rgba": [0, 0, 3, 0],
+      "minecraftblock": {
+        "blockid": 152,
+        "variant": 0
+      }
+    },
+      {
+      "color": "quartz_block",
+      "rgba": [235, 229, 222, 0],
+      "minecraftblock": {
+        "blockid": 155,
+        "variant": 0
+      }
+    },
+      {
+      "color": "lapis_block",
+      "rgba": [30, 67, 140, 0],
+      "minecraftblock": {
+        "blockid": 22,
+        "variant": 0
+      }
+    },
+      {
+      "color": "lapis_block",
+      "rgba": [30, 67, 140, 0],
+      "minecraftblock": {
+        "blockid": 22,
+        "variant": 0
+      }
+    },
+      {
+      "color": "coal_block",
+      "rgba": [16, 15, 15, 0],
+      "minecraftblock": {
+        "blockid": 173,
+        "variant": 0
+      }
+    },
+      {
+      "color": "purpur_block",
+      "rgba": [169, 125, 169, 0],
+      "minecraftblock": {
+        "blockid": 201,
+        "variant": 0
+      }
+    },
+      {
+      "color": "nether_wart_block",
+      "rgba": [114, 2, 2, 0],
+      "minecraftblock": {
+        "blockid": 214,
+        "variant": 0
+      }
+    },
+      {
+      "color": "note_block",
+      "rgba": [88, 58, 40, 0],
+      "minecraftblock": {
+        "blockid": 25,
+        "variant": 0
+      }
+    },
+      {
+      "color": "gold_block",
+      "rgba": [246, 208, 61, 0],
+      "minecraftblock": {
+        "blockid": 41,
+        "variant": 0
+      }
+    },
+      {
+      "color": "nether_wart_block",
+      "rgba": [114, 2, 2, 0],
+      "minecraftblock": {
+        "blockid": 214,
+        "variant": 0
+      }
+    },
+      {
+      "color": "hay_bale",
+      "rgba": [165, 139, 12, 0],
+      "minecraftblock": {
+        "blockid": 170,
+        "variant": 0
+      }
+    },
+      {
+      "color": "emerald_block",
+      "rgba": [42, 203, 87, 0],
+      "minecraftblock": {
+        "blockid": 133,
+        "variant": 0
+      }
+    },
+      {
+      "color": "iron_block",
+      "rgba": [220, 220, 220, 0],
+      "minecraftblock": {
+        "blockid": 42,
+        "variant": 0
+      }
+    },
+      {
+      "color": "diamond_block",
+      "rgba": [98, 237, 228, 0],
+      "minecraftblock": {
+        "blockid": 57,
+        "variant": 0
+      }
+    },
+      {
+      "color": "cobblestone",
+      "rgba": [127, 127, 127, 0],
+      "minecraftblock": {
+        "blockid": 4,
+        "variant": 0
+      }
+    },
+      {
+      "color": "stone",
+      "rgba": [125, 125, 125, 0],
+      "minecraftblock": {
+        "blockid": 1,
+        "variant": 0
+      }
+    },
+      {
+      "color": "granite",
+      "rgba": [149, 103, 85, 0],
+      "minecraftblock": {
+        "blockid": 1,
+        "variant": 1
+      }
+    },
+      {
+      "color": "polished_granite",
+      "rgba": [154, 106, 89, 0],
+      "minecraftblock": {
+        "blockid": 1,
+        "variant": 2
+      }
+    },
+      {
+      "color": "diorite",
+      "rgba": [188, 188, 188, 0],
+      "minecraftblock": {
+        "blockid": 1,
+        "variant": 3
+      }
+    },
+      {
+      "color": "polished_diorite",
+      "rgba": [192, 193, 194, 0],
+      "minecraftblock": {
+        "blockid": 1,
+        "variant": 4
+      }
+    },
+      {
+      "color": "andesite",
+      "rgba": [136, 136, 136, 0],
+      "minecraftblock": {
+        "blockid": 1,
+        "variant": 5
+      }
+    },
+      {
+      "color": "polished_andesite",
+      "rgba": [132, 134, 133, 0],
+      "minecraftblock": {
+        "blockid": 1,
+        "variant": 6
+      }
+    }
+  ]
+}
